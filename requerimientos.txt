@@ -1,3 +1,4 @@
+
 certifi==2021.5.30
 chardet==4.0.0
 cycler==0.10.0
@@ -7,7 +8,7 @@ matplotlib==3.4.2
 numpy==1.21.0
 pandas==1.2.5
 Pillow==8.3.0
-pkg-resources==0.0.0
+
 pyparsing==2.4.7
 pyTelegramBotAPI==3.8.1
 python-dateutil==2.8.1
