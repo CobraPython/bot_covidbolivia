@@ -26,6 +26,8 @@ $ cd bot_covidbolivia
 
 
 Instalamos las siguientes librerias:
-$ pip install requerimientos.txt
+$ pip install -r requerimientos.txt
+
+
 
 
